@@ -6,7 +6,7 @@ core_version_requirement: ^8 || ^9
 base theme: bootstrap_barrio
 
 libraries:
-  - primal/bootstrap_cdn
+  # - primal/bootstrap_cdn
   - primal/global-styling
 
 regions:
