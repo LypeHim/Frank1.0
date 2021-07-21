@@ -1,0 +1,20 @@
+uuid: cba5f1f4-60c4-4632-9a17-884342eb9920
+langcode: en
+status: true
+dependencies:
+  theme:
+    - primal
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: primal_local_actions
+theme: primal
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

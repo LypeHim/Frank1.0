@@ -1,0 +1,20 @@
+uuid: 89d1e46d-9b2a-4b38-b124-3cb36f87628d
+langcode: en
+status: true
+dependencies:
+  theme:
+    - primal
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: primal_page_title
+theme: primal
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

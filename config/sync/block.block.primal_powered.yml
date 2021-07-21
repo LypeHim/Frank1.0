@@ -1,0 +1,22 @@
+uuid: 993b56a7-ad2a-42dc-afa2-4fefce6e6607
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - primal
+_core:
+  default_config_hash: jQQUUWN2Uxr5qZtc9zcJKBCxpKY8orN1u2HPqYYRQDI
+id: primal_powered
+theme: primal
+region: footer_fifth
+weight: 10
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 31141b7e-fa6c-420a-8dc9-9a97cccb5e2f
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - primal
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: primal_messages
+theme: primal
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }
