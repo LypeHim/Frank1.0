@@ -1,0 +1,18 @@
+palette:
+  top: '#292929'
+  bottom: '#292929'
+  bg: '#ffffff'
+  sidebar: '#f6f6f2'
+  sidebarborders: '#f9f9f9'
+  footer: '#292929'
+  button: '#007bff'
+  buttonhover: '#0256b1'
+  titleslogan: '#fffeff'
+  text: '#3b3b3b'
+  link: '#0071b3'
+logo: 'public://color/primal-af950843/logo.svg'
+stylesheets:
+  - 'public://color/primal-af950843/colors.css'
+files:
+  - 'public://color/primal-af950843/logo.svg'
+  - 'public://color/primal-af950843/colors.css'
